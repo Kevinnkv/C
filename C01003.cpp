@@ -2,7 +2,7 @@
 // <=9 chu so -> int -> %d (so nguyen)
 // khi binh phuong len -> toi da len den 10^18
 // 18 chu so <= long long -> %lld (so nguyen)
-// float (%f) / double(%llf) -> so thuc
+// float (%f) / double(%lf) -> so thuc
 int main(){
 	int t;
 	scanf("%d", &t);
